@@ -144,7 +144,7 @@ Auto-generated HTML templates
 
 1.pip install flask pymongo
 
-2.Get-Service | Where-Object { $_.Name -like "*MongoDB*"}
+2.Get-Service | Where-Object { $_.Name -like "**MongoDB**"}
 
 3.python gymmember.py
 
