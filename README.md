@@ -151,5 +151,6 @@ Auto-generated HTML templates
 # Admin Credential
 
 1.username:admin
+
 2.password:admin123
 
