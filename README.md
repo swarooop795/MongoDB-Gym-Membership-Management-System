@@ -146,4 +146,10 @@ Auto-generated HTML templates
 
 2.Get-Service | Where-Object { $_.Name -like "*MongoDB*"}
 
-3.python
+3.python gymmember.py
+
+# Admin Credential
+
+1.username:admin
+2.password:admin123
+
