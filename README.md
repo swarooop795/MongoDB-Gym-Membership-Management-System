@@ -142,11 +142,7 @@ Auto-generated HTML templates
 
 # Command Required for this project 
 
-1.pip install flask pymongo
-
-2.Get-Service | Where-Object { $_.Name -like "**MongoDB**"}
-
-3.python gymmember.py
+![WhatsApp Image 2025-08-03 at 15 26 43_0c5b3501](https://github.com/user-attachments/assets/47e35702-8284-42b1-9eeb-de6e04dc401b)
 
 # Admin Credential
 
