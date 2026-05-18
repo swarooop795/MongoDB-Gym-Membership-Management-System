@@ -140,7 +140,7 @@ Basic analytics (status badges, days remaining)
 
 Auto-generated HTML templates
 
-# Command Required for this project 
+# Command Required for this Project 
 
 1. python -m pip install pymongo
 2. python -m pip install flask
