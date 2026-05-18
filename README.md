@@ -142,7 +142,10 @@ Auto-generated HTML templates
 
 # Command Required for this project 
 
-![WhatsApp Image 2025-08-03 at 15 26 43_0c5b3501](https://github.com/user-attachments/assets/47e35702-8284-42b1-9eeb-de6e04dc401b)
+1. python -m pip install pymongo
+2. python -m pip install flask
+3. python -m pip install flask pymongo (Fastest and recommended)
+4. python gymmember.py
 
 # Admin Credential
 
