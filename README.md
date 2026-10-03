@@ -147,9 +147,4 @@ Auto-generated HTML templates
 3. python -m pip install flask pymongo (Fastest and recommended)
 4. python gymmember.py
 
-# Admin Credential
-
-1.username:admin
-
-2.password:admin123
 
